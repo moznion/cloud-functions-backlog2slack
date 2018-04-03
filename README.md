@@ -1,4 +1,4 @@
-# cloud-functions-backlog2slack
+# cloud-functions-backlog2slack [![Build Status](https://travis-ci.org/moznion/cloud-functions-backlog2slack.svg?branch=master)](https://travis-ci.org/moznion/cloud-functions-backlog2slack)
 
 A [backlog](https://backlog.com/)'s web-hook forwarder that delivers messages of backlog to Slack.
 This application works on Google Cloud Functions.
