@@ -1,0 +1,11 @@
+{
+  "backlog": {
+    "baseUrl": "https://example.com"
+  },
+  "slack": {
+    "token": "YOUR-TOKEN",
+    "channel": "#CHANNEL",
+    "iconEmoji": ":your-emoticon:",
+    "username": "bot-name"
+  }
+}
